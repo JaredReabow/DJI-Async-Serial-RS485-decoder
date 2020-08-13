@@ -1,0 +1,13 @@
+{
+  "name": "DJI T16 M BUS Decoder",
+  "apiVersion": "1.0.0",
+  "author": "Jared Reabow",
+  "version": "0.0.1",
+  "description": "Designed for decoding agras T16 signals",
+  "extensions": {
+    "DJI T16 M BUS Decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
